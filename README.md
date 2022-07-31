@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,Web Technologies**
 
-- 📫 How to reach me **Mohamedbenarbi01@gmail.coù**
+- 📫 How to reach me **Mohamedbenarbi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
